@@ -354,10 +354,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Scripts/Asteroid.cs"
-"Assets/Scripts/AsteroidManager.cs"
-"Assets/Scripts/Player.cs"
-"Assets/Scripts/PlayerMovement.cs"
+"Assets/Scripts/Asteroid/Asteroid.cs"
+"Assets/Scripts/Asteroid/AsteroidManager.cs"
+"Assets/Scripts/Camera/FollowCamera.cs"
+"Assets/Scripts/Player/Player.cs"
+"Assets/Scripts/Player/PlayerMovement.cs"
 -langversion:9.0
 
 /deterministic
