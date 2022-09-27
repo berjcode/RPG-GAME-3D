@@ -357,8 +357,10 @@
 "Assets/Scripts/Asteroid/Asteroid.cs"
 "Assets/Scripts/Asteroid/AsteroidManager.cs"
 "Assets/Scripts/Camera/FollowCamera.cs"
+"Assets/Scripts/Player/Laser.cs"
 "Assets/Scripts/Player/Player.cs"
 "Assets/Scripts/Player/PlayerMovement.cs"
+"Assets/Scripts/Player/Thuster.cs"
 -langversion:9.0
 
 /deterministic
